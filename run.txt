@@ -1,0 +1,2 @@
+StopArea:OCE82006030,Bettembourg,,49.5161110,6.10111100,,,1,, //This stop area has two stop points
+
